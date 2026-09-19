@@ -1,0 +1,10 @@
+<svg width="184" height="36" viewBox="0 0 184 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="showBoxTicketNotch" maskUnits="userSpaceOnUse">
+<rect x="0" y="2" width="40" height="32" rx="8" fill="white"/>
+<circle cx="0" cy="18" r="5" fill="black"/>
+<circle cx="40" cy="18" r="5" fill="black"/>
+</mask>
+<rect x="0" y="2" width="40" height="32" rx="8" fill="#E50914" mask="url(#showBoxTicketNotch)"/>
+<path d="M15 11L27 18L15 25V11Z" fill="white"/>
+<text x="50" y="26" font-family="Outfit, sans-serif" font-size="26" font-weight="700" fill="white">show<tspan fill="#E50914">Box</tspan></text>
+</svg>
